@@ -1,0 +1,20 @@
+{
+  "name": "696.icu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/696-icu/696.icu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC BY-SA 4.0",
+  "bugs": {
+    "url": "https://github.com/696-icu/696.icu/issues"
+  },
+  "homepage": "https://github.com/696-icu/696.icu#readme"
+}
